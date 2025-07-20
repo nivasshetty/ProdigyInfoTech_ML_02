@@ -58,5 +58,5 @@ The goal is to identify clusters that help understand customer behavior for busi
 ---
 
 ## 📬 Connect with Me
-- 🔗 [LinkedIn](#)
-- 📧 your.email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kalyanasrinivas-bonagiri-a33709322/)
+- 📧 [E mail](kalyanasrinivasbonagiri@gmail.com)
